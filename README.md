@@ -1,4 +1,5 @@
 # Text Editor Starter Code
+![Service Worker Information](./Screenshot.png)
 
 ## Description
 The purpose of this project is to build a text editor that runs in the browser (a single-page application that meets the PWA criteria).
